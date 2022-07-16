@@ -1,0 +1,5 @@
+@media only screen and (max-width: 500px) {
+  .detail-transaction-header {
+    flex-direction: column;
+  }
+}

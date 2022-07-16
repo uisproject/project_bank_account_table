@@ -1,0 +1,6 @@
+@media only screen and (max-width: 500px) {
+  .layout-wrapper {
+    max-width: 90vw !important;
+    margin: 50px auto !important;
+  }
+}
